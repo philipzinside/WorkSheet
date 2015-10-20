@@ -3,8 +3,11 @@ package ru.shopcenter.core;
 //import java.util.Random;
 
 public class GeneratorSC {
-	private int shopCenter;
+	
+	/*	ShopCenter sc = new ShopCenter();
+	int shopCenter;
 	private int floor;
+	
 	private int[] box = new int[0];
 	
 	int getShopCenter() {
@@ -18,7 +21,7 @@ public class GeneratorSC {
 	
 	
 	// создаем торговый комплекс
-	public void createSC(){
+	void createSC(){
 		//sc = new ShopCenter();
 		
 		// Объявляем переменную для хранения нового ТК
@@ -28,7 +31,7 @@ public class GeneratorSC {
 		int createtSC = (int) (Math.random() * 1);
 		System.out.println("ТК создан. Количество ТК: " + sc);
 	}
-
+*/
 			
 	/*	void prinSC() {
 			//return ?;
